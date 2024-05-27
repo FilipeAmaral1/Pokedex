@@ -49,7 +49,7 @@ Navegue até o diretório do projeto:
   ## Uso
 1. Inicie o servidor:
   ```bash
-  npm start
+  node src/server.mjs
   ```
 
 2.Abra seu navegador e acesse:
