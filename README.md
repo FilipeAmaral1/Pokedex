@@ -35,16 +35,16 @@ Navegue até o diretório do projeto:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuUsuario/projeto-pokedex.git
+   git clone https://github.com/FilipeAmaral1/Pokedex.git
    ```
 2.Navegue até o diretório do projeto:
   ```bash
-   cd projeto-pokemon
+   cd Pokedex
   ```
 
 3.Instale as dependências:
   ```bash
-   npm install
+   npm i express node-fetch
   ```
   ## Uso
 1. Inicie o servidor:
